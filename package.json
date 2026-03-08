@@ -1,0 +1,13 @@
+{
+  "name": "weather-api",
+  "version": "1.0.0",
+  "description": "A simple weather API for learning Claude Code",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "node --test tests/"
+  },
+  "keywords": [],
+  "license": "MIT"
+}
